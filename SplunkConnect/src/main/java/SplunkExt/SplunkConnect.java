@@ -128,8 +128,8 @@ public class SplunkConnect {
      * @observe ran observer that watches for the data collected from the splunk enterperise
      */
     static void ConnectMongoDB(Observer observer) {
-        // String username = "arminesbin2000";
-        // String password = "arminnimra";
+        // String username = "";
+        // String password = "";
         // try {
         //     password = URLEncoder.encode(password, "UTF-8");
         //     username = URLEncoder.encode(username, "UTF-8");
