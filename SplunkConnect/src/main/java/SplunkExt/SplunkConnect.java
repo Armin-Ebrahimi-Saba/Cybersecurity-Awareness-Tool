@@ -114,10 +114,10 @@ public class SplunkConnect {
      */
     static Service ConnectSplunk() {
         ServiceArgs loginArgs = new ServiceArgs();
-        loginArgs.setUsername("aes");
-        loginArgs.setPassword("arminnimra");
-        loginArgs.setHost("localhost");
-        loginArgs.setPort(8089);
+        loginArgs.setUsername("");
+        loginArgs.setPassword("");
+        loginArgs.setHost("");
+        loginArgs.setPort();
         // Create a Service instance and log in with the argument map
         Service service = Service.connect(loginArgs);
         return service;
