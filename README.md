@@ -18,6 +18,6 @@ Reference:
 Useful links:  
 https://www.mitre.org/our-impact/intellectual-property/cygraph  
 
-## Note: Uploaded code is not meant to be executable.
+## Note: Not all of the code is uploaded.
 
 
